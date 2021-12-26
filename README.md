@@ -13,3 +13,5 @@ Weight YoloV5s:
 https://github.com/ultralytics/yolov5/releases/download/v6.0/yolov5s.pt
 
 [Dataset COCO 2017](https://cocodataset.org/#download)
+
+[Android Deployment with Tensorflow Lite](https://drive.google.com/file/d/1JCH6JDwAkVNtGvTY0rAD6TCGgmh6wP86/view?usp=sharing)
